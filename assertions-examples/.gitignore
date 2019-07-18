@@ -1,0 +1,11 @@
+/target
+/.settings
+.DS_Store
+.idea
+/*.iml
+somefile
+somefile.txt
+symlink-to-somefile.txt
+symlinkToExistingFile
+symlinkToNonExistentPath
+symlink-to-rwxFile
